@@ -2,7 +2,7 @@
 title = "I'm Jad Istanbelly"
 author = "Jad Istanbelly"
 #copyright = "2020-2021"
-description = "Call me Jad"
+description = "Jad Istanbelly"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -16,7 +16,7 @@ doNotLoadAnimations = false
 # Google Analytics
 googleAnalytics = "UA-223850042-1"
 # Form Spree Contact Form
-#contactFormAction = "https://formspree.io/f/mnqrygzv"
+contactFormAction = "https://formspree.io/f/mnqrygzv"
 #contactFormReCaptcha = "your-site-key-here"
 # Google Fonts
 #googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]

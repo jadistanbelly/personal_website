@@ -1,28 +1,24 @@
 ---
 aliases:
-- about-us
-- about-hugo
+- about-me
+- about-jad
 - contact
-author: Hugo Authors
-date: "2019-02-28"
-description: Hugo, the world's fastest framework for building websites
-title: About
+author: Jad Istanbelly
+date: "2022-11-27"
+description: My journey in the Data field
+title: About Me
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Jad is a recent graduate of Finance and Economics from [The Sobeys School of Busines](https://www.smu.ca/academics/sobey/welcome.html) with a growing passion in Data Science and Analytics. With the help of online resources and a few courses at [Saint Mary's University](https://www.smu.ca/) he has explored and experimented with various topics such as; 
 
-Hugo makes use of a variety of open source projects including:
+- Machine Learning 
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+- Statistical Analysis 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+- Data Cleaning 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+- Data Visualization
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+He considers himself a tech fanatic, who loves to keep up with what is going on in the tech world including latest products and innovations. He also has a strong IT background working with computers from a young age to working different roles at the [SMU EIT Department](https://www.smu.ca/academics/enterprise-information-technology.html). Nowadays, Jad is completing an intensive Data Analyst Bootcamp with [Npower Canda](https://npowercanada.ca/). Additionally, working on a data research paper (soon to be published) regarding the spread of "sickness" in high test regions. This webpage will be used to share his data projects and journey in this ever-growing field.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+

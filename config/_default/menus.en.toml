@@ -16,30 +16,18 @@
   identifier = "portfolio"
   url = "/portfolio/"
 
+
   [[main]]
-  name = "About"
+  name = "Competitions"
   weight = 400
+  identifier = "competitions"
+  url = "/competitions/"
+  
+  [[main]]
+  name = "About Me"
+  weight = 500
   identifier = "about"
   url = "/about/"
-
-  [[main]]
-  name = "Accomplishments"
-  weight = 500
-  identifier = "accomplishments"
-
-  [[main]]
-  name = "Awards"
-  weight = 510
-  identifier = "awards"
-  url = "/awards/"
-  parent = "accomplishments"  
-
-  [[main]]
-  name = "Certifications"
-  weight = 520
-  identifier = "certifications"
-  url = "/certifications/"
-  parent = "accomplishments"
 
   [[main]]
   name = "Contact"
