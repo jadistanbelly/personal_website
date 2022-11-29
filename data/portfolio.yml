@@ -1,56 +1,60 @@
 portfolioitems:
   # portfolio category
-  - title: Coding Projects
+  - title: R Projects
     portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
+      - name: Econometrics
+        image: '/images/portfolio/econometrics.png'
+        link: https://rawcdn.githack.com/jadistanbelly/Econometrics/0bc68a32d1feff462287dbb1c3d87885d16415d6/Econometrics%20Project.html
         linktext: 'Visit project website'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        tags:
-          - Tag 1
-          - Tag 2
+        description: 'The second course I have taken using R where I could apply the statistical concepts learned throughout my degrees. It has been very insightful to not only understand the application to statistical models but also the method of interpretation to each model. This final project utilizes four data-sets to show important applications of Linear Algebra, OLS and Logit models, Confusion Matrix etc. in business like data. For example, analysis is done on data-sets regarding money supply and its link to inflation or on the Capital Asset Pricing Model (CAPM) that can explain the rate of return on a security.'
         status: 'Finished'
-        start: '2020'
-        end: '2021'
         authors:
-          - lxndrblz
-          - alexanderdavide
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        status: 'On Hold'
+          - Jad Istanbelly
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        link: https://gohugo.io/
+          - Statistics
+          - Analysis
+      - name: Predicting Wine Type
+        image: '/images/portfolio/ml.png'
+        link: https://rawcdn.githack.com/jadistanbelly/Machine-Learning/ea6af402ca82164ac181a5eaa42d12a94887cbc9/Predicting_Wine_Type_ML_Parallel.html
+        description: 'Part of my Intro to Machine Learning course. This course pushed me to really experience the ups and downs of programming, it is where I mostly learned R and the spark I needed to realize how much I enjoy Data Science and Analytics. Specifically, this final project applies a large sum of the topics covered in the course onto data regarding Wine and its chemical properties. Furthermore, the codes are done at a step by step process instead of solely using popular R packages that that do a lot of the manually coding internally in their functions. For example, Cross-Validation and Bootstrapping is done in annotated steps for an instructional approach in understanding the codes. Finally, majority of the codes are designed to parallel compute thus decreasing knitting time.'
         status: 'Finished'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        authors: 
+          - Jad Istanbelly
         tags:
-          - Tag 1
-          - Tag 2
+          - Machine Learning
+          - Analysis
+      - name: Research Seminar
+        status: 'On Hold'
+        description: 'Research paper regarding the spread of sickness in high test regions. In the process of online journal publishing. '
   # portfolio category
-  - title: Research
-    portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        description: 'This project does not have a link attribute'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
-        tags:
-          - Tag 1
-          - Tag 2
+  #- title: SQL
+  #  portfolioitem:
+  #    - name: Project 1
+  #      image: '/images/portfolio/code.jpg'
+  #      description: 'Inspired by an admission test I have taken. This project uses SQL '
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
+  #    - name: Project 2
+  #      image: '/images/portfolio/code.jpg'
+  #      link: https://gohugo.io/
+  #      description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
+  #    - name: Project 3
+  #      image: '/images/portfolio/code.jpg'
+  #      link: https://gohugo.io/
+  #      description: 'A description'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
+  ## portfolio category
+  #- title: Research
+  #  portfolioitem:
+  #    - name: Project 1
+  #      image: '/images/portfolio/code.jpg'
+  #      description: 'This project does not have a link attribute'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
