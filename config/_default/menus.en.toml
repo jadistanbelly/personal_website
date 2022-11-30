@@ -4,24 +4,45 @@
   weight = 100
   url = "/"
 
-  [[main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+  #[[main]]
+  #name = "Posts"
+  #weight = 200
+  #identifier = "posts"
+  #url = "/post/"
 
   [[main]]
   name = "Portfolio"
   weight = 300
   identifier = "portfolio"
   url = "/portfolio/"
-
-
+  
   [[main]]
-  name = "Competitions"
-  weight = 400
-  identifier = "competitions"
-  url = "/competitions/"
+  name = "R"
+  weight = 310
+  identifier = "rprojects"
+  url = "/rprojects/"
+  parent = "portfolio"
+  
+    [[main]]
+  name = "SQL"
+  weight = 320
+  identifier = "sqlprojects"
+  url = "/sqlprojects/"
+  parent = "portfolio"
+  
+    [[main]]
+  name = "Python"
+  weight = 330
+  identifier = "pythonprojects"
+  url = "/pythonprojects/"
+  parent = "portfolio"
+
+
+  #[[main]]
+  #name = "Competitions"
+  #weight = 400
+  #identifier = "competitions"
+  #url = "/competitions/"
   
   [[main]]
   name = "About Me"

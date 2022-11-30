@@ -19,6 +19,6 @@ Jad is a recent graduate of Finance and Economics from [The Sobeys School of Bus
 
 - Data Visualization
 
-He considers himself a tech fanatic, who loves to keep up with what is going on in the tech world including latest products and innovations. He also has a strong IT background working with computers from a young age to working different roles at the [SMU EIT Department](https://www.smu.ca/academics/enterprise-information-technology.html). Nowadays, Jad is completing an intensive Data Analyst Bootcamp with [Npower Canda](https://npowercanada.ca/). Additionally, working on a data research paper (soon to be published) regarding the spread of "sickness" in high test regions. This webpage will be used to share his data projects and journey in this ever-growing field.
+He considers himself a tech fanatic, who loves to keep up with what is going on in the tech world including latest products and innovations. He also has a strong IT background working with computers from a young age to working different roles at the [SMU EIT Department](https://www.smu.ca/academics/enterprise-information-technology.html). Nowadays, Jad is completing an intensive Data Analyst Bootcamp with [Npower Canda](https://npowercanada.ca/). Additionally, working on a data research paper (soon to be published) regarding the spread of "sickness" in high test regions.
 
 

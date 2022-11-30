@@ -1,12 +1,8 @@
 /* Resize profile picture */
 
-.sidebar .introduction-title .title img {
-        width: 418px;
-        height: 626px; 
-    }
 
-.sidebar .introduction-title .title img {
-    width: 418px;
-    height: 626px;
-  
+.sidebar__introduction-profileimage {
+    width: 127px;
+    height: 190px;
+    border-radius: 50%;
 }

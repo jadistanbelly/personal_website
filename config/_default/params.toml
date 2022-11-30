@@ -2,7 +2,7 @@
 title = "I'm Jad Istanbelly"
 author = "Jad Istanbelly"
 copyright = "2021-2022"
-description = "Jad Istanbelly"
+#description = "Jad Istanbelly"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -63,15 +63,24 @@ title = "Linkedin"
 url = "https://www.linkedin.com/in/jadistanbelly"
 
 [[socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/jadistanbelly"
-
+icon = "fab fa-telegram"
+title = "Telegram"
+url = "https://t.me/jadistanbelly"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:jadelkareem@hotmail.com"
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/jadistanbelly"
+
+[[socialIcons]]
+icon = "fab fa-kaggle"
+title = "Kaggle"
+url = "https://www.kaggle.com/jadistanbelly"
 
 [mermaid]
 # enable = true

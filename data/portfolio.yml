@@ -1,10 +1,11 @@
 portfolioitems:
+
   # portfolio category
   - title: R Projects
     portfolioitem:
       - name: Econometrics
         image: '/images/portfolio/econometrics.png'
-        link: https://rawcdn.githack.com/jadistanbelly/Econometrics/0bc68a32d1feff462287dbb1c3d87885d16415d6/Econometrics%20Project.html
+        link: https://rawcdn.githack.com/jadistanbelly/Econometrics/e12a2c67fe13c465cc22b0841fe4dd6000a175b6/Econometrics%20Project.html
         linktext: 'Visit project website'
         description: 'The second course I have taken using R where I could apply the statistical concepts learned throughout my degrees. It has been very insightful to not only understand the application to statistical models but also the method of interpretation to each model. This final project utilizes four data-sets to show important applications of Linear Algebra, OLS and Logit models, Confusion Matrix etc. in business like data. For example, analysis is done on data-sets regarding money supply and its link to inflation or on the Capital Asset Pricing Model (CAPM) that can explain the rate of return on a security.'
         status: 'Finished'
@@ -16,6 +17,7 @@ portfolioitems:
       - name: Predicting Wine Type
         image: '/images/portfolio/ml.png'
         link: https://rawcdn.githack.com/jadistanbelly/Machine-Learning/ea6af402ca82164ac181a5eaa42d12a94887cbc9/Predicting_Wine_Type_ML_Parallel.html
+        linktext: 'Visit project website'
         description: 'Part of my Intro to Machine Learning course. This course pushed me to really experience the ups and downs of programming, it is where I mostly learned R and the spark I needed to realize how much I enjoy Data Science and Analytics. Specifically, this final project applies a large sum of the topics covered in the course onto data regarding Wine and its chemical properties. Furthermore, the codes are done at a step by step process instead of solely using popular R packages that that do a lot of the manually coding internally in their functions. For example, Cross-Validation and Bootstrapping is done in annotated steps for an instructional approach in understanding the codes. Finally, majority of the codes are designed to parallel compute thus decreasing knitting time.'
         status: 'Finished'
         authors: 
@@ -25,7 +27,17 @@ portfolioitems:
           - Analysis
       - name: Research Seminar
         status: 'On Hold'
-        description: 'Research paper regarding the spread of sickness in high test regions. In the process of online journal publishing. '
+        description: 'Research paper regarding the spread of sickness in high test regions. In the process of online journal publishing.'
+        tags: 
+          - Research
+          - Analysis
+      - name: Evaluating Language Knowledge of ELL Students from Grades 8-12
+        status: 'In Progress'
+        description: <a href="https://www.kaggle.com/competitions/feedback-prize-english-language-learning/overview">**A Kaggle Competition**</a> that I missed but decided would be a good introduction to NLP and text analysis. This was also a good time to dive deeper into the tidyverse and learn how to work with building pipelines via workflows and parsnip models.
+        tags: 
+          - Text Analysis
+          - NLP
+          - Tidyverse
   # portfolio category
   #- title: SQL
   #  portfolioitem:
