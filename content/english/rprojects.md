@@ -5,6 +5,7 @@ author: Jad Istanbelly
 date: "2022-04-10"
 description: Showcasing projects done in R
 title: R Projects
+toc: true
 ---
 
 ## Machine Learning
@@ -31,3 +32,13 @@ Here are a few external resources that have been really helpful when taking Econ
 -   [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
 
 ------------------------------------------------------------------------
+
+## Research Seminar
+
+### On Hold
+
+Research paper regarding the spread of sickness in high test regions. In the process of online journal publishing.
+
+
+------------------------------------------------------------------------
+
